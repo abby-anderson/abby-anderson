@@ -1,4 +1,22 @@
-### Hi there 👋
+### 👋  Hi there, welcome to my Github! 😄
+
+I'm a former environmental educator, turned operational problem-solver, turned software engineer! 
+
+
+I'm passionate about learning how to create things, and I love seeing the whole creative process through from brainstorm to completion. Speaking of creating things, I love to create when I'm not coding! Whether it's a challenging new recipe, a glass-blowing class, or a nice sewing project, I'm always working on one skill or another. 
+
+
+
+I recently graduated from Flatiron School's *Full Stack Web Development, Ruby on Rails and JavaScript* program and I'm thrilled to find my next career move. I'm delighted that I have a lifetime of learning ahead of me in this field and I can't wait to get started! I enjoy working with Javascript, React, Ruby, and Rails, and I'm beginning to learn Python. I love that programming is the perfect balance between creativity and problem-solving. 
+
+
+
+Reach out, let's connect!
+📫 [LinkedIn](https://www.linkedin.com/in/abby-e-anderson/)
+
+
+
+
 
 <!--
 **abby-anderson/abby-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +28,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  How to reach me: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
