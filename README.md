@@ -7,7 +7,7 @@ I'm passionate about learning how to create things, and I love seeing the whole 
 
 
 
-I recently graduated from Flatiron School's *Full Stack Web Development, Ruby on Rails and JavaScript* program and I'm thrilled to find my next career move. I'm delighted that I have a lifetime of learning ahead of me in this field and I can't wait to get started! I enjoy working with Javascript, React, Ruby, and Rails, and I'm beginning to learn Python. I love that programming is the perfect balance between creativity and problem-solving. 
+I recently graduated from Flatiron School's *Full Stack Web Development, Ruby on Rails and JavaScript* program and I'm thrilled to find my next career move. I'm delighted that I have a lifetime of learning ahead of me in this field and I can't wait to get started! I enjoy working with Javascript, React, Ruby, and Rails, and I'm beginning to learn Python. I love that programming is the perfect balance between creativity and problem-solving, and I'm looking forward to joining a collaborative team where I can level-up my skills.
 
 
 
