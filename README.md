@@ -12,6 +12,7 @@ I recently graduated from Flatiron School's *Full Stack Web Development, Ruby on
 
 
 Reach out, let's connect!
+
 📫 [LinkedIn](https://www.linkedin.com/in/abby-e-anderson/)
 
 
